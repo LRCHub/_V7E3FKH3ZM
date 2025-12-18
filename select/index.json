@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ダーリン (~18祭Ver.~ / Live) - Darling (~18Fes Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-18T04:49:29.603465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダーリン ~18祭Ver.~(Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_ダーリン_~18祭Ver.~(Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダーリン (~18祭Ver.~ / Live) - Darling (~18Fes Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_ダーリン_(~18祭Ver.~___Live)_-_Darling_(~18Fes_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダーリン ～18祭Ver.～ (Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ダーリン_~18祭Ver.~_(Live)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
